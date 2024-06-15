@@ -614,9 +614,10 @@
   "editor:insert-tag": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "3"
     }
-  ]
+  ],
+  "workspace:goto-tab-3": []
 }
