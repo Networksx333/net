@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Clean Architecture.md",
+                "file": "Cards/Чистая архитектура.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5247a9a1d5f48531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Жизнь.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80994bd958b34a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Clean Architecture.md",
+                "file": "README.md.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Clean Architecture.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -164,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Clean Architecture.md",
+                "file": "README.md.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Clean Architecture.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,16 +229,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today's daily note": false,
-      "obisidian-note-linker:Note Linker": false
+      "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "1c0ead5975a29f97",
+  "active": "80994bd958b34a51",
   "lastOpenFiles": [
-    "Cards/Design patterns.md",
-    "Cards/Clean Architecture.md",
-    "Cards/Abstract factory.md",
+    "Cards/Жизнь.md",
+    "Cards/Науки.md",
+    "Cards/Инженерные науки.md",
+    "Cards/Компьютерные науки.md",
+    "Cards/Алгоритмы.md",
+    "README.md.md",
+    "Cards/Чистая архитектура.md",
+    "Cards/Модульные алгоритмы.md",
+    "Cards/Дерево поведения.md",
+    "Cards/Мутации объектов.md",
     "Extras/Templates/Template.md",
+    "Cards/Design patterns.md",
+    "Cards/Abstract factory.md",
     "+ Encounters/Программирвоание стратегия и тактика.md",
     "Cards/Concepts of System Design.md",
     "Cards/Factory method.md",
@@ -225,15 +260,6 @@
     "Extras/Templates/Template, Meeting (kit).md",
     "Extras/Templates/Template, Dates dates dates (kit).md",
     "Calendar/2020-06-13 -  Bob Bain on Reading Comprehension.md",
-    "Calendar/2013-03-10 Habit Planning.md",
-    "Calendar/2020-06-01.md",
-    "Calendar/2015-02-20 Habit Formation Research Article.md",
-    "Calendar/2015-02-20 Habit Concepts and Theory.md",
-    "Calendar/+ About Calendar.md",
-    "Atlas/+ About Atlas.md",
-    "LiM/docs/Вопросы/Фильтр Калмана. Расширенный фильтр Калмана..md",
-    "LiM/docs/Вопросы/Итеративный алгоритм ближайших точек..md",
-    "LiM/docs/Вопросы/Задача построения 3D карты. Примеры..md",
     "LiM/docs/Дополнительно/Images/Pasted image 20240525230628.png",
     "LiM/docs/Дополнительно/Images/Pasted image 20240525230614.png",
     "LiM/docs/Дополнительно/Images/Pasted image 20240525230425.png",
