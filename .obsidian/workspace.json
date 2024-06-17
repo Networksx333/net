@@ -241,6 +241,7 @@
   },
   "active": "33c66453b9e88cb7",
   "lastOpenFiles": [
+    "README.md",
     "update.bat",
     "New Text Document.txt",
     "Cards/Как сделать код расширяемым.md",
@@ -285,7 +286,6 @@
     "LiM/docs/Дополнительно/Images",
     "LiM/docs/Дополнительно",
     "LiM/docs/Карты",
-    "LiM/docs/Карты контента",
-    "LiM_better/template"
+    "LiM/docs/Карты контента"
   ]
 }
