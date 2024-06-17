@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Чистый код.md",
+                "file": "Cards/Операционные системы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Чистый код.md",
+                "file": "Cards/Операционные системы.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Чистый код.md"
+                "file": "Cards/Операционные системы.md"
               }
             }
           }
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Чистый код.md",
+                "file": "Cards/Операционные системы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Чистый код.md",
+                "file": "Cards/Операционные системы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,11 +241,13 @@
   },
   "active": "33c66453b9e88cb7",
   "lastOpenFiles": [
+    "Cards/Windows.md",
+    "Cards/WSL.md",
+    "Cards/Чистый код.md",
     "README.md",
     "update.bat",
     "New Text Document.txt",
     "Cards/Как сделать код расширяемым.md",
-    "Cards/Чистый код.md",
     "Cards/ELF.md",
     "Cards/Чтение Linux файловых систем под Windows.md",
     "Cards/Файловые системы.md",
@@ -267,8 +269,6 @@
     "Cards/Жизнь.md",
     "Cards/Сетевые протоколы.md",
     "Cards/Интернет.md",
-    "Cards/RockPI.md",
-    "Cards/Одноплатники.md",
     "Extras/Images/Pasted image 20240617113313.png",
     "Extras/Images/Pasted image 20240617113212.png",
     "Extras/Images/Pasted image 20240617113129.png",
