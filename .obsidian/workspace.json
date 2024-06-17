@@ -11,16 +11,38 @@
             "id": "80994bd958b34a51",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d16b07394a686764",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Объекты.md",
+                "file": "Cards/Операционные системы.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9350f2f2c761a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Чтение Linux файловых систем под Windows.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cmake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Объекты.md",
+                "file": "Cards/Чтение Linux файловых систем под Windows.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Объекты.md"
+                "file": "Cards/Чтение Linux файловых систем под Windows.md"
               }
             }
           }
@@ -164,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Объекты.md",
+                "file": "Cards/Чтение Linux файловых систем под Windows.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Объекты.md",
+                "file": "Cards/Чтение Linux файловых систем под Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,40 +223,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today's daily note": false
+      "random-note:Open random note": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "e9350f2f2c761a7f",
   "lastOpenFiles": [
-    "Cards/Мутации объектов.md",
-    "Cards/Объекты.md",
-    "Cards/Программирование.md",
-    "Cards/Науки.md",
-    "Cards/Жизнь.md",
-    "Cards/Мир.md",
-    "Cards/Деятельность.md",
-    "Cards/Архитектура ПО.md",
-    "Cards/Чистая архитектура.md",
-    "Cards/Компьютерные науки.md",
-    "Cards/Алгоритмы.md",
+    "Cards/Файловые системы.md",
+    "Cards/Операционные системы.md",
+    "Cards/Чтение Linux файловых систем под Windows.md",
+    "Cards/SSH.md",
+    "Cards/Подключение RockPI к Windows.md",
+    "Cards/Открытие cmake проекта в Visual Studio.md",
+    "Cards/CMake.md",
+    "Cards/Сборка проекта cmake из командной строки.md",
     "Cards/Дерево поведения.md",
-    "Cards/Инженерные науки.md",
     "Cards/Модульные алгоритмы.md",
-    "README.md.md",
-    "Extras/Templates/Template.md",
-    "Cards/Design patterns.md",
-    "Cards/Abstract factory.md",
-    "+ Encounters/Программирвоание стратегия и тактика.md",
-    "Cards/Concepts of System Design.md",
-    "Cards/Factory method.md",
-    "Cards/Builder.md",
-    "Cards/Singleton.md",
-    "Cards/Process of system creation.md",
-    "Cards/System design.md",
-    "Home.md",
-    "LiM/docs/Дополнительно/Images/Pasted image 20240525230628.png",
-    "LiM/docs/Дополнительно/Images/Pasted image 20240525230614.png",
-    "LiM/docs/Дополнительно/Images/Pasted image 20240525230425.png",
+    "Cards/Науки.md",
+    "Cards/Устройства.md",
+    "Cards/Венгерский алгоритм.md",
+    "Cards/Мир.md",
+    "Cards/C++.md",
+    "Cards/VNC.md",
+    "Cards/Алгоритмы.md",
+    "Cards/Жизнь.md",
+    "Cards/Сетевые протоколы.md",
+    "Cards/Интернет.md",
+    "Cards/RockPI.md",
+    "Cards/Одноплатники.md",
+    "Cards/Компьютеры.md",
+    "Cards/Электронные устройства.md",
+    "Cards/unistd.h API UNIX.md",
+    "Cards/UNIX.md",
+    "Extras/Images/Pasted image 20240617113313.png",
+    "Extras/Images/Pasted image 20240617113212.png",
+    "Extras/Images/Pasted image 20240617113129.png",
+    "Extras/Images/Pasted image 20240617113025.png",
+    "Extras/Images/Pasted image 20240617112945.png",
+    "Extras/Images/Pasted image 20240617112936.png",
+    "Extras/Images/Pasted image 20240617112858.png",
+    "Extras/Images/Pasted image 20240617112250.png",
+    "Extras/Images/Pasted image 20240617111112.png",
+    "Extras/Images/Pasted image 20240617110910.png",
     "LiM/docs/Пояснения",
     "LiM/docs/Вопросы",
     "LiM/docs/Входящие",
@@ -244,13 +273,6 @@
     "LiM/docs/Карты",
     "LiM/docs/Карты контента",
     "LiM_better/template",
-    "LiM_better/Untitled",
-    "LiM_better/assets/img/sun.svg",
-    "LiM_better/assets/img/OGImg.png",
-    "LiM_better/assets/img/moon.svg",
-    "LiM_better/assets/img/external-link.svg",
-    "LiM_better/assets/img/7-how-to.png",
-    "LiM_better/assets/img/6-how-to.png",
-    "LiM_better/assets/img/5-how-to.png"
+    "LiM_better/Untitled"
   ]
 }
