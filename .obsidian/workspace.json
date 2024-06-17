@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Операционные системы.md",
+                "file": "Cards/Файловые системы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cmake",
+                "query": "tag:#информация",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Операционные системы.md",
+                "file": "Cards/Файловые системы.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Операционные системы.md"
+                "file": "Cards/Файловые системы.md"
               }
             }
           }
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Операционные системы.md",
+                "file": "Cards/Файловые системы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Операционные системы.md",
+                "file": "Cards/Файловые системы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,34 +242,34 @@
   },
   "active": "33c66453b9e88cb7",
   "lastOpenFiles": [
-    "Cards/Windows.md",
-    "Cards/WSL.md",
+    "Cards/Деятельность.md",
+    "Cards/Алгоритмы.md",
+    "Cards/Сборка проекта cmake из командной строки.md",
+    "Cards/UNIX.md",
+    "Extras/Templates/Template.md",
+    "Cards/Устройства.md",
+    "Cards/Чистая архитектура.md",
+    "Cards/Как сделать код расширяемым.md",
+    "Cards/Программирование.md",
+    "Cards/Компьютерные науки.md",
+    "Cards/Файловые системы.md",
+    "Cards/Электронные устройства.md",
+    "Cards/Объекты.md",
     "Cards/Чистый код.md",
+    "Cards/Интернет.md",
+    "Cards/Сетевые протоколы.md",
+    "Cards/Открытие cmake проекта в Visual Studio.md",
+    "Cards/WSL.md",
+    "Cards/Операционные системы.md",
+    "Cards/Windows.md",
     "README.md",
     "update.bat",
     "New Text Document.txt",
-    "Cards/Как сделать код расширяемым.md",
     "Cards/ELF.md",
     "Cards/Чтение Linux файловых систем под Windows.md",
-    "Cards/Файловые системы.md",
-    "Cards/Операционные системы.md",
     "Cards/SSH.md",
     "Cards/Подключение RockPI к Windows.md",
-    "Cards/Открытие cmake проекта в Visual Studio.md",
     "Cards/CMake.md",
-    "Cards/Сборка проекта cmake из командной строки.md",
-    "Cards/Дерево поведения.md",
-    "Cards/Модульные алгоритмы.md",
-    "Cards/Науки.md",
-    "Cards/Устройства.md",
-    "Cards/Венгерский алгоритм.md",
-    "Cards/Мир.md",
-    "Cards/C++.md",
-    "Cards/VNC.md",
-    "Cards/Алгоритмы.md",
-    "Cards/Жизнь.md",
-    "Cards/Сетевые протоколы.md",
-    "Cards/Интернет.md",
     "Extras/Images/Pasted image 20240617113313.png",
     "Extras/Images/Pasted image 20240617113212.png",
     "Extras/Images/Pasted image 20240617113129.png",

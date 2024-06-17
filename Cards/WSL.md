@@ -9,4 +9,6 @@ tags::  #powershell
 wsl --install
 wsl --install -d Ubuntu-24.04
 wsl --update
+wsl --version
+wsl --status
 ```
