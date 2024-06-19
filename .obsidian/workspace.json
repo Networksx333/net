@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/ELF.md",
+                "file": "Cards/Подключение одноплатника через Ethernet по SSH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "33c66453b9e88cb7",
+            "id": "3cfa40fe55e42ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Файловые системы.md",
+                "file": "Cards/EMMC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#информация",
+                "query": "ip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Файловые системы.md",
+                "file": "Cards/EMMC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Файловые системы.md"
+                "file": "Cards/EMMC.md"
               }
             }
           }
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Файловые системы.md",
+                "file": "Cards/EMMC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Файловые системы.md",
+                "file": "Cards/EMMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,36 +239,37 @@
       "random-note:Open random note": false
     }
   },
-  "active": "33c66453b9e88cb7",
+  "active": "3cfa40fe55e42ecd",
   "lastOpenFiles": [
-    "Cards/Деятельность.md",
-    "Cards/Алгоритмы.md",
-    "Cards/Сборка проекта cmake из командной строки.md",
+    "Cards/Память.md",
+    "Cards/EMMC.md",
+    "Cards/Кросскомпиляция.md",
+    "Cards/Rock PI.md",
+    "Cards/Компиляция.md",
+    "Cards/OpenCV.md",
+    "Cards/Delete All Files In Folder Linux.md",
+    "Cards/Find anything in linux.md",
+    "Cards/Компьютерное зрение.md",
+    "Cards/Интернет и статический ip.md",
+    "Cards/# Получить список сетевых устройств.md",
+    "Cards/Подключение одноплатника через Ethernet по SSH.md",
+    "Cards/CMake.md",
+    "Cards/SSH.md",
+    "Cards/DHCP.md",
+    "Cards/Подключение RockPI к Windows.md",
+    "Cards/Безопасное выключение одноплатника.md",
+    "Extras/Images/Pasted image 20240618120532.png",
+    "Cards/Terminal Linux.md",
+    "Cards/Vim.md",
+    "Cards/Как выйти из Vim.md",
+    "Cards/Ethernet.md",
+    "Cards/Linux.md",
     "Cards/UNIX.md",
-    "Extras/Templates/Template.md",
-    "Cards/Устройства.md",
-    "Cards/Чистая архитектура.md",
-    "Cards/Как сделать код расширяемым.md",
-    "Cards/Программирование.md",
-    "Cards/Компьютерные науки.md",
+    "Cards/ELF.md",
+    "Cards/deb.md",
     "Cards/Файловые системы.md",
-    "Cards/Электронные устройства.md",
-    "Cards/Объекты.md",
-    "Cards/Чистый код.md",
-    "Cards/Интернет.md",
-    "Cards/Сетевые протоколы.md",
-    "Cards/Открытие cmake проекта в Visual Studio.md",
-    "Cards/WSL.md",
-    "Cards/Операционные системы.md",
-    "Cards/Windows.md",
-    "README.md",
     "update.bat",
     "New Text Document.txt",
-    "Cards/ELF.md",
-    "Cards/Чтение Linux файловых систем под Windows.md",
-    "Cards/SSH.md",
-    "Cards/Подключение RockPI к Windows.md",
-    "Cards/CMake.md",
     "Extras/Images/Pasted image 20240617113313.png",
     "Extras/Images/Pasted image 20240617113212.png",
     "Extras/Images/Pasted image 20240617113129.png",
@@ -279,7 +279,6 @@
     "Extras/Images/Pasted image 20240617112858.png",
     "Extras/Images/Pasted image 20240617112250.png",
     "Extras/Images/Pasted image 20240617111112.png",
-    "Extras/Images/Pasted image 20240617110910.png",
     "LiM/docs/Пояснения",
     "LiM/docs/Вопросы",
     "LiM/docs/Входящие",
