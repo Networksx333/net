@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/EMMC.md",
+                "file": "Cards/start project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip",
+                "query": "j4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/EMMC.md",
+                "file": "Cards/start project.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/EMMC.md"
+                "file": "Cards/start project.md"
               }
             }
           }
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/EMMC.md",
+                "file": "Cards/start project.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/EMMC.md",
+                "file": "Cards/start project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,19 +242,24 @@
   },
   "active": "3cfa40fe55e42ecd",
   "lastOpenFiles": [
-    "Cards/Память.md",
+    "Cards/SIYI project.md",
+    "Cards/Projects.md",
+    "Cards/start project.md",
+    "Cards/OpenCV.md",
+    "Cards/CMake.md",
+    "Cards/gstreamer.md",
+    "Cards/ffmpeg.md",
     "Cards/EMMC.md",
+    "Cards/Память.md",
     "Cards/Кросскомпиляция.md",
     "Cards/Rock PI.md",
     "Cards/Компиляция.md",
-    "Cards/OpenCV.md",
     "Cards/Delete All Files In Folder Linux.md",
     "Cards/Find anything in linux.md",
     "Cards/Компьютерное зрение.md",
     "Cards/Интернет и статический ip.md",
     "Cards/# Получить список сетевых устройств.md",
     "Cards/Подключение одноплатника через Ethernet по SSH.md",
-    "Cards/CMake.md",
     "Cards/SSH.md",
     "Cards/DHCP.md",
     "Cards/Подключение RockPI к Windows.md",
@@ -263,11 +269,6 @@
     "Cards/Vim.md",
     "Cards/Как выйти из Vim.md",
     "Cards/Ethernet.md",
-    "Cards/Linux.md",
-    "Cards/UNIX.md",
-    "Cards/ELF.md",
-    "Cards/deb.md",
-    "Cards/Файловые системы.md",
     "update.bat",
     "New Text Document.txt",
     "Extras/Images/Pasted image 20240617113313.png",
