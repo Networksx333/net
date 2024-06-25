@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/start project.md",
+                "file": "Cards/OpenCV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "j4",
+                "query": "ope",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/start project.md",
+                "file": "Cards/OpenCV.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/start project.md"
+                "file": "Cards/OpenCV.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/start project.md",
+                "file": "Cards/OpenCV.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/start project.md",
+                "file": "Cards/OpenCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,6 +242,7 @@
   },
   "active": "3cfa40fe55e42ecd",
   "lastOpenFiles": [
+    "Cards/start project.md",
     "Extras/Images/Pasted image 20240624123806.png",
     "Extras/Images/Pasted image 20240624122522.png",
     "Extras/Images/Pasted image 20240624122405.png",
@@ -250,7 +251,6 @@
     "Extras/Images/Pasted image 20240624122136.png",
     "Cards/SIYI project.md",
     "Cards/Projects.md",
-    "Cards/start project.md",
     "Cards/OpenCV.md",
     "Cards/CMake.md",
     "Cards/gstreamer.md",
@@ -279,7 +279,6 @@
     "Extras/Images/Pasted image 20240617113313.png",
     "Extras/Images/Pasted image 20240617113212.png",
     "Extras/Images/Pasted image 20240617113129.png",
-    "Extras/Images/Pasted image 20240617113025.png",
     "LiM/docs/Пояснения",
     "LiM/docs/Вопросы",
     "LiM/docs/Входящие",

@@ -15,7 +15,7 @@ sudo python3 cursed_gui.py --address 127.0.0.1 --modem 1:1
 First, you need to modify the system configuration to enable SPI and configure the MCP2515 CAN controller. Open the configuration file using Vim:
 
 ```bash
-sudo vim /boot/config.txt
+sudo vim /config/config.txt
 ```
 
 Depending on your MCP2515's oscillator, add the appropriate configuration at the end of the file:
@@ -43,7 +43,6 @@ sudo rsetup
 
 Navigate to `=>overlays=>manage overlays=>` and make the following changes:
 - **Enable**:
-  - `Enable 1-Wire on GPIO3_B3`
   - `Enable CAN1-M0`
   - `Enable MCP2515 with 8MHz external clock on SPI0-M2 over CS0`
 - **Disable** all other options not required for your setup.
@@ -61,5 +60,17 @@ dmesg | grep -i '\(can\|spi\)'
 - **Bad Output**: Errors or warnings related to CAN or SPI, indicating issues in configuration or hardware connections.
 ![[Pasted image 20240624122405.png]]
 
+If not working after correct initialization, try 
+```
+
+```
 
 By following these revised instructions, you should be able to set up the CAN interface on your Rock Pi 5 with greater clarity and accuracy. If you encounter any error messages, double-check the configurations, especially the oscillator values and pin assignments.
+
+zsh 
+
+UART CAN 
+
+ublox gnss 
+
+uavmonitor imu
